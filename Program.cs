@@ -10,9 +10,9 @@ namespace TicTacToeProject
                 //TicTacToeGame game = new TicTacToeGame(); // Creating an object 'game' of class 'TicTacToeGame'
                 //game.TicTacToeGameMethod(); // Calling a method 'TicTacToeGameMethod'
 
-                TicTacToeGame input = new TicTacToeGame();
-                input.InputLetterMethod();
-            }
+                TicTacToeGame game = new TicTacToeGame();
+                game.TicTacToeGameMethod(); // Calling a method 'TicTacToeGameMethod'
+        }
         
     }
 }
